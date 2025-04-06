@@ -1,15 +1,10 @@
-- 👋 Hi there ,
--       I’m @Deepakchaudhary0125
--  B.Tech Student at Dr.BR Amdedkar National Institute Of Technology, Jalandhar, Punjab
--  Persuing ECE 
--  👀 I’m interested in C, C++, Web Development ...
-- 🌱 I’m currently learning  Python, CSS, JAVA and much more ...
-- 💞️ I’m looking to collaborate on ...
-- 🌐Instagram Handle -->https://www.instagram.com/_deepu0125/ ...
+2nd Year B.Tech ECE Student | NIT Jalandhar
+🔧 VLSI | Verilog | Embedded Systems | Frontend Development
 
-  🔗🔗 Join with me to revise  your skills by  sharing them with a newbie  as your companion  !!!!
-  📈
+Hi, Deepak here! I'm currently pursuing Electronics and Communication Engineering at NIT Jalandhar, with a strong focus on VLSI design and Digital Hardware systems.
 
+I'm proficient in C, C++, Python, and Verilog, and have hands-on experience using tools like Cadence, LTspice, and Arduino IDE.
+I'm currently working on projects involving SPI-UART protocol design and a face recognition-based attendance system that combines hardware logic with practical applications.
 <!---
 Deepakchaudhary0125/Deepakchaudhary0125 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
